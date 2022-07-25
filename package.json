@@ -6,7 +6,7 @@
   "homepage": "https://eduardoshurkov.github.io/Ice-Cream-Team-Project/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /swat-test/"
+    "build": "parcel build src/*.html --public-url /Ice-Cream-Team-Project/"
   },
   "repository": {
     "type": "git",
