@@ -1,9 +1,9 @@
 {
-  "name": "parcel-project-template",
+  "name": "Ice-Cream-Team-Project",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Krenichniy.github.io/swat-test",
+  "homepage": "https://eduardoshurkov.github.io/Ice-Cream-Team-Project/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /swat-test/"
